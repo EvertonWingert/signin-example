@@ -7,7 +7,6 @@ const userData: Prisma.UserCreateInput[] = [
 		name: "Everton",
 		email: "teste@gmail.com",
 		password: "password",
-		updated_at: new Date(),
 	},
 ];
 
